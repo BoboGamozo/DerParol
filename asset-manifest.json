@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DerParol/static/css/main.a617e044.chunk.css",
+    "main.js": "/DerParol/static/js/main.95a90872.chunk.js",
+    "main.js.map": "/DerParol/static/js/main.95a90872.chunk.js.map",
+    "runtime-main.js": "/DerParol/static/js/runtime-main.4a5b4ff6.js",
+    "runtime-main.js.map": "/DerParol/static/js/runtime-main.4a5b4ff6.js.map",
+    "static/js/2.fea81b95.chunk.js": "/DerParol/static/js/2.fea81b95.chunk.js",
+    "static/js/2.fea81b95.chunk.js.map": "/DerParol/static/js/2.fea81b95.chunk.js.map",
+    "static/js/3.fbe48f7a.chunk.js": "/DerParol/static/js/3.fbe48f7a.chunk.js",
+    "static/js/3.fbe48f7a.chunk.js.map": "/DerParol/static/js/3.fbe48f7a.chunk.js.map",
+    "index.html": "/DerParol/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/DerParol/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fea81b95.chunk.js.LICENSE.txt": "/DerParol/static/js/2.fea81b95.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DerParol/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a5b4ff6.js",
+    "static/js/2.fea81b95.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.95a90872.chunk.js"
+  ]
+}
