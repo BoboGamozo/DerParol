@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DerParol/static/css/main.a617e044.chunk.css",
-    "main.js": "/DerParol/static/js/main.7ae5d0dd.chunk.js",
-    "main.js.map": "/DerParol/static/js/main.7ae5d0dd.chunk.js.map",
+    "main.js": "/DerParol/static/js/main.264a14e1.chunk.js",
+    "main.js.map": "/DerParol/static/js/main.264a14e1.chunk.js.map",
     "runtime-main.js": "/DerParol/static/js/runtime-main.4a5b4ff6.js",
     "runtime-main.js.map": "/DerParol/static/js/runtime-main.4a5b4ff6.js.map",
     "static/js/2.fea81b95.chunk.js": "/DerParol/static/js/2.fea81b95.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4a5b4ff6.js",
     "static/js/2.fea81b95.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.7ae5d0dd.chunk.js"
+    "static/js/main.264a14e1.chunk.js"
   ]
 }
